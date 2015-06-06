@@ -1,15 +1,26 @@
 #Update
 Added the following files
-*R files, each with a function which will read from and filter the data source and create a single PNG file as lised below.
+
+*R files, each with a function which will read from and filter the data source and create a single PNG file as listed below.
+
   *plot1.R
+  
   *plot2.R
+  
   *plot3.R
+  
   *plot4.R
-*PNG files created using teh code from teh respective files listed above
+  
+*PNG files created using the code from the respective files listed above
+
   *plot1.png
+  
   *plot2.png
+  
   *plot3.png
+  
   *plot4.png
+  
 
 ## Introduction
 
